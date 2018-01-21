@@ -1,0 +1,82 @@
+{
+  "Challengers":[
+    {
+      "name" : "Petterwood",
+      "status" : "unpaired"
+    },
+    {
+      "name" : "Maggietr",
+      "status" : "unpaired"
+    },
+    {
+      "name" : "Semtex",
+      "status" : "paired"
+    },
+    {
+      "name" : "Schlatter",
+      "status" : "paired"
+    }
+  ],
+
+  "Friends":[
+    {
+      "name" : "Petterwood",
+      "status" : "unpaired"
+    },
+    {
+      "name" : "Maggietr",
+      "status" : "unpaired"
+    },
+    {
+      "name" : "Semtex",
+      "status" : "paired"
+    },
+    {
+      "name" : "Schlatter",
+      "status" : "paired"
+    }
+  ],
+
+  "DailyChallenge":[
+    {
+      "content" : "Give a hug to random person"
+    }
+  ],
+
+  "UpcomingChallenge":[
+    {
+      "content" : "Eat banana in 7 seconds",
+      "date" : " "
+    },
+    {
+      "content" : "Shotgun a beer",
+      "date" : " "
+    },
+    {
+      "content" : "Ask cashier's number at Village Dining hall",
+      "date" : " "
+    },
+    {
+      "content" : "Scare your roommate",
+      "date" : " "
+    }
+  ],
+
+  "DailyCompetitor":[
+    {
+      "name" : "Petterwood",
+      "point" : "0p",
+      "finishTime" : "08:33",
+      "statue" : "0"
+    },
+    {
+      "name" : "Maggietr",
+      "point" : "0p",
+      "finishTime" : "08:33",
+      "statue" : "0"
+    }
+  ]
+
+
+
+}
